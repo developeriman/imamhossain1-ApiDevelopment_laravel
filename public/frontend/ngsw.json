@@ -1,0 +1,121 @@
+{
+  "configVersion": 1,
+  "timestamp": 1632720238950,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/167.97240b6d6fd9df15296b.js",
+        "/33.3355591a95f0c77d5cdd.js",
+        "/451.e64c4d3477567d4d2e2f.js",
+        "/484.f9d3fd43fc88c3badfd7.js",
+        "/545.eda5de05d0c692c75bbf.js",
+        "/570.82fad26cea62ef9e63ae.js",
+        "/590.996fc43bc9787b933af9.js",
+        "/709.711ea8fac3c5ab5feafa.js",
+        "/845.212c58da0489a1fda4b3.js",
+        "/93.c0e9bd73b7620956e1fb.js",
+        "/987.b9a0edce0bc064120ce7.js",
+        "/assets/logo.svg",
+        "/common.14530c51b95dde82b59b.js",
+        "/index.html",
+        "/main.7e227a2b2b8ed44a5360.js",
+        "/manifest.webmanifest",
+        "/polyfills.df5d118ecb8a65f63f19.js",
+        "/runtime.31570fa471ecde7628ac.js",
+        "/styles.20893460bcac36e5a580.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/arrowsoft.svg",
+        "/assets/bg.svg",
+        "/assets/dashboard.svg",
+        "/assets/icon.ico",
+        "/assets/icons/1024x1024.png",
+        "/assets/icons/128x128.png",
+        "/assets/icons/16x16.png",
+        "/assets/icons/256x256.png",
+        "/assets/icons/32x32.png",
+        "/assets/icons/512x512.png",
+        "/assets/icons/64x64.png",
+        "/assets/member.svg",
+        "/assets/project.svg",
+        "/assets/task.svg",
+        "/assets/user_report.svg",
+        "/bg.9c7ee338f7052d8bda46.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/167.97240b6d6fd9df15296b.js": "5048b173c0d3da79fb2f5051c0dbbc0999b8aa8a",
+    "/33.3355591a95f0c77d5cdd.js": "02d288a6e2440aadb090ea00da3005036449d35c",
+    "/451.e64c4d3477567d4d2e2f.js": "ba1df78677f3fdd83c464c24700d4f6328cdd6bf",
+    "/484.f9d3fd43fc88c3badfd7.js": "68913f2328a4018bf91fce12f37677a54ea890a9",
+    "/545.eda5de05d0c692c75bbf.js": "cce8062c284b2ed770651fe48641fe68c4a7b647",
+    "/570.82fad26cea62ef9e63ae.js": "263c76913121d421347619342be57d43db6c954c",
+    "/590.996fc43bc9787b933af9.js": "3f1856e86d6ef86532f192522289eb236089edd6",
+    "/709.711ea8fac3c5ab5feafa.js": "55447c3533fa2789fdbf983efb3c17a538fea1b1",
+    "/845.212c58da0489a1fda4b3.js": "417014196e2a9bb923b54bc3cabddce2ee46cdf0",
+    "/93.c0e9bd73b7620956e1fb.js": "f12c6e257ae8c2c7b91ac704b38607a8abab6463",
+    "/987.b9a0edce0bc064120ce7.js": "283702d731d549df5c50e2cdbce0a3f073401e94",
+    "/assets/arrowsoft.svg": "9a4d19a708c624106ab422229b890439cf357994",
+    "/assets/bg.svg": "cab72bb5cf71a3f3954cecdfacce34cbdd5d39b3",
+    "/assets/dashboard.svg": "fd6d5d47bd18d6cb5691701a6fc2c57163c7bae7",
+    "/assets/icon.ico": "26c386773957f5b968fbe80637d1b5e448e43a1f",
+    "/assets/icons/1024x1024.png": "c57d5c19f7ecff8ec8ac1217c4f3c0cde0ce7db9",
+    "/assets/icons/128x128.png": "60f05d770131b1afdd434d5bfd915597e6b18d82",
+    "/assets/icons/16x16.png": "ce2f5c9f6989930426ab0b7baa59c42c28f41bff",
+    "/assets/icons/256x256.png": "ccc0fccc843c64dd17f34b21afc8a0ec0d7f0915",
+    "/assets/icons/32x32.png": "765f48bb9d47ded40c03cf0dc778487f9d684e3b",
+    "/assets/icons/512x512.png": "5a4cd1eba4e16d574e98cefa67b1e20c91502f08",
+    "/assets/icons/64x64.png": "c92c78249030d9b95a6cee6aaf51b8bdb441e62b",
+    "/assets/logo.svg": "ac9411857d04f0181b71af0a3c00da8f6a32c397",
+    "/assets/member.svg": "e8460d77757abcec50895aeb35b799697c1ed7a2",
+    "/assets/project.svg": "9cf902816a3c7a6c4c161bd84702d22f95f66c18",
+    "/assets/task.svg": "bcc6a1e42c78228a8cb00210ab0e85a28b6e120f",
+    "/assets/user_report.svg": "9f75feea50c6af525607915a659d6f01a3e0523b",
+    "/bg.9c7ee338f7052d8bda46.svg": "cab72bb5cf71a3f3954cecdfacce34cbdd5d39b3",
+    "/common.14530c51b95dde82b59b.js": "e1802d75ce2c1a7b596ab39303ee428a8f08d24d",
+    "/index.html": "082edecb6bf81c6d9471b750c464e93986352b20",
+    "/main.7e227a2b2b8ed44a5360.js": "811727adae75a255a7d8c1da1b8a1f41cec3f99d",
+    "/manifest.webmanifest": "5711df0a235674a1107001de5919ca5848e56fe2",
+    "/polyfills.df5d118ecb8a65f63f19.js": "f68e77a52bcfee671b2576a0f1eca3126cd8d8f5",
+    "/runtime.31570fa471ecde7628ac.js": "c5acf954c640ad7c8029207db84c959d9b3d712f",
+    "/styles.20893460bcac36e5a580.css": "93b8c91bf94500d90c463645fb9b7700dcf63a69"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
